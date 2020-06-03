@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right, rgb(194, 194, 194)
+    , rgb(0,0,0));
+}
+nav{
+    background: rgb(255, 255, 255);
+    position: absolute;
+    right: 0px;
+    border-radius: 0px 0px 0px 15px;
+}
+    
+.navlinks ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 20px;
+    z-index: 0;
+}
+.welcome{
+    color: black;
+    position: absolute;
+    right: 30%;  
+    bottom: 50%;
+    
+}
+.conbox{
+    background: beige;
+    border-radius: 15px;
+}
+.welcome h1{
+    font-size: 45px;
+    font-family: 'Times New Roman';
+}
+
+.welcome p{
+    font-size: 20px;
+    font-family: serif;
+}
+
+.contactinfo{
+    color: black;
+    bottom: 30px;
+    position: absolute;
+}
+.contacters{
+    color: azure;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+}
+.aboutcontent{
+    color: azure;
+    background: rgb(194, 194, 194);
+    border-radius: 20px;
+    bottom: 250px;
+    right: 30%;
+}
+.footer{
+    bottom: 0px;
+    background: #cacaca;
+    position: absolute;
+}
+.content{
+    background: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
