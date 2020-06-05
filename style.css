@@ -68,8 +68,12 @@ nav{
 .content{
     background: grey;
 }
-
-
+.img{
+    width: 45%;
+    height: 40%;
+    bottom: 190px;
+    left: 90px;
+}
 
 
 
